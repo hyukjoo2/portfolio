@@ -237,6 +237,7 @@ p {
 .job {
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
 }
 
 .job__description {
